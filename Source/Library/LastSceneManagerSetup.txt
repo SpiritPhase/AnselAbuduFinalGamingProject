@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/ansel/Downloads/Prototype/FinalProject/AbuduAnselCS4423Midterm/Source/Assets/Scenes/Level
+    1-3.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
